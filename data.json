@@ -1,0 +1,88 @@
+
+curl -X POST https://bpm.shaparak.ir/pgwchannel/startpay.mellat \
+  -H 'Content-Type: application/json' \
+  -H 'X-API-KEY: 704a..........................................c \
+  -H 'X-SANDBOX: 1' \
+  -d '{
+  "order_id": "148",
+  "amount": "220.000.000.000.000 RIALS",
+  "name": "esme hesab maghsad",
+  "phone": "",
+  "desc": "پرداخت به ",
+  "callback": "https://bankmellat.ir/P650.......................",
+}
+
+
+
+{
+  "id": " ",
+  "link": "https://bpm.shaparak.ir/pgwchannel/startpay.mellat",
+}
+
+{
+curl -X POST https://bpm.shaparak.ir/pgwchannel/startpay.mellat \
+  -H 'Content-Type: application/json' \
+  -H 'X-API-KEY: "704..................." \
+  -H 'X-SANDBOX: 1' \
+  -d '{
+  "id": " ",
+  "order_id": "",
+}
+
+
+
+
+
+
+{
+ "status": "",
+  "track_id": "",
+  "id": "",
+  "order_id": "",
+  "amount": "220.000.000.000.000",
+    "by": "Satna",
+    "type": "percent",
+    "amount": "220.000.000.000.000",
+  },
+  "date": "202404160",
+  "payer": {
+    "name": "نام حساب مقصد",
+    "phone": "",
+    "desc": "پرداخت به ",
+  },
+  "payment": {
+    "track_id": "",
+    "amount": "220.000.000.000.000",
+    "card_no": "",
+    "hashed_card_no": "cbaf11.................................,
+    "date": "202404090",
+  },
+  "verify": {
+    "date": "202404090"
+  },
+  "settlement": {
+    "track_id": "",
+    "amount": "220.000.000.000.000",
+    "date": "",
+    }
+
+"data" {
+"IN DETITY CODE/SWIFT CODE": "",
+"INTERBANK BLOCKING CODE": "",
+"SORT CODE": "" "" "",
+"RELEASE CODE": "",
+"ACCESS CODE": "",
+"TRANSACTION CODE": "",
+"TRANSACTION ID": "",
+"FINAL CODE": "",
+"TRANSFER CODE": "",
+"WTS SERVER": "",
+"BONDING KEY": "",
+"DOWNLOAD CODE": "",
+"RECEIVING CODE": "",
+"ACTIVATION CODE": "",
+"DEPOSIT TRANSACTION CODE": "",
+"WITHDRAWAL CODE": "",
+"WITHDRAWAL PASSWORD": "",
+"ACCEPT CODE": "",
+},
